@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dice-roll-game/static/css/main.93440e1b.css",
+    "main.js": "/Dice-roll-game/static/js/main.1bfc907a.js",
+    "index.html": "/Dice-roll-game/index.html",
+    "main.93440e1b.css.map": "/Dice-roll-game/static/css/main.93440e1b.css.map",
+    "main.1bfc907a.js.map": "/Dice-roll-game/static/js/main.1bfc907a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93440e1b.css",
+    "static/js/main.1bfc907a.js"
+  ]
+}
